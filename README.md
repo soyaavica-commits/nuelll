@@ -1,14 +1,10 @@
 # Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+-Flower code from: https://codepen.io/lunaimup/pen/BamepLe
 
 
 
-view : https://raihannafisz.github.io/bunga/
+view : https://lunaamup.github.io/bunga/
 
 # Description
-Flower code tiktok trend 
+Flower buat yang lulus sidang nichh
 
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
-
-
-Thanks to codepan and mdusmanansari
